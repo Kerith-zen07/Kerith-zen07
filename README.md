@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kerith-zen07
 - 👀 I’m interested in coding, Data analytics, web.dev
-- 🌱 I’m currently learning web.dev
+- 🌱 I’m currently learning 
 - 😄 Pronouns: he/him
 
 <!---
